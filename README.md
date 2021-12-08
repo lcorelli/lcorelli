@@ -1,4 +1,4 @@
-<p align="center"><img align="center" width="1500px" src="assets/duke_main_drive.jpg"></p>
+<p align="center"><img align="center" width="1100px" src="assets/duke_main_drive.jpg"></p>
 
 
 ### Hi, I'm Leo 🚀 💻:)
