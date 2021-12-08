@@ -23,7 +23,7 @@ I just completed my first semester at Duke University. I love the school, my pro
 
 ## 🚀 Future plans
 
-I have been working relentlessly over the past 7 months both on my own and in school to learn, practice, and become a better data scientist. I am building my github repositories so that everyone can see what I have been working on. I am currently looking for a 2022 data science summer internship to continue my learning process. I take tremendous pride in and ownership of my work, I'm a very fast learner, and I love working with people and being a part of something bigger than myself. 
+I have been working relentlessly over the past 7 months both on my own and in school to learn, practice, and become a better data scientist and machine learning practitioner. I am building my github repositories so that everyone can see what I have been working on. I am currently looking for a 2022 data science/machine learning summer internship to continue my learning process. I take tremendous pride in and ownership of my work, I'm a very fast learner, and I love working with people and being a part of something bigger than myself. 
 
 
 
