@@ -2,8 +2,8 @@
 <p align="center"><img align="center" width="1100px" src="assets/duke_main_drive.jpg"></p>
 
 ## :book: About me
-- :computer: Artificial Intelligence master's student at Duke University (08/2021~)
-- :mortar_board: BS in electrical engineering from the University of Notre Dame (08/2017-05/2021)
+- :computer: Artificial intelligence master's student at Duke University (08/2021~)
+- :mortar_board: Bachelor's in electrical engineering from the University of Notre Dame (08/2017-05/2021)
 - :fire: 
 - :keyboard: VS Code gang (how do you exit VIM?!?)
 - :eyes: 
