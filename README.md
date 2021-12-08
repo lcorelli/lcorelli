@@ -13,7 +13,6 @@ I am a recent graduate of the University of Notre Dame with a bachelor's in elec
 
 I just completed my first semester at Duke University. I love the school, my professors, and the area. It's amazing what the weather in Durham, NC can do for you after spending the last 4 years in freezing and cloudy northern Indiana!
 
-&nbsp;
 
 ## 💻 Skills
 - 👨‍💻 Python: OOP principles, numpy, pandas, sklearn, pytorch
