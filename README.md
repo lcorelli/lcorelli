@@ -6,8 +6,8 @@
 
 - :computer: Master's in artificial intelligence at Duke University (08/2021-)
 - :mortar_board: Bachelor's in electrical engineering from the University of Notre Dame '21
-- :fire: Data science
 - :keyboard: VS Code gang (how do you exit VIM?!?)
+- :fire: Data science
 
 I am a recent graduate of the University of Notre Dame with a bachelor's in electrical engineering, and a current master's student at Duke University studying artificial intelligence. I love data, college football (go Irish ☘️ !!), working out, and spending time with my family and friends. 
 
