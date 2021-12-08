@@ -1,3 +1,6 @@
+<p align="center"><img align="center" width="300px" src="assets/duke_main_drive.jpg"></p>
+
+
 ### Hi, I'm Leo 🚀 💻:)
 
 
