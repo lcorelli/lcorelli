@@ -1,10 +1,11 @@
 # Hi, I'm Leo :) 🚀 💻 
 
-<p align="center"><img align="center" width="600px" src="assets/chapel_selfie.png"></p>
 
 ## :book: About me
-- :computer: Master's student studying artificial intelligence at Duke University (08/2021-)
-- :mortar_board: Bachelor's in electrical engineering from the University of Notre Dame (08/2017-05/2021)
+<p align="center"><img align="right" width="300px" src="assets/chapel_selfie.png"></p>
+
+- :computer: Master's in artificial intelligence at Duke University (08/2021-)
+- :mortar_board: Bachelor's in electrical engineering from the University of Notre Dame '21
 - :fire: 
 - :keyboard: VS Code gang (how do you exit VIM?!?)
 - :eyes: 
@@ -12,6 +13,7 @@
 I am a recent graduate of the University of Notre Dame with a bachelor's in electrical engineering, and a current master's student at Duke University studying artificial intelligence. I love data, college football (go Irish ☘️ !!), working out, and spending time with my family and friends. 
 
 I just completed my first semester at Duke University. I love the school, my professors, and the area. It's amazing what the weather in Durham, NC can do for you after spending the last 4 years in freezing and cloudy northern Indiana!
+
 
 ## 💻 Skills
 - 👨‍💻 Python: OOP principles, numpy, pandas, sklearn, pytorch
