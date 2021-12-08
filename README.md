@@ -1,4 +1,4 @@
-# Hi, I'm Leo :) 🚀 💻 
+# Hi, I'm Leo :) 🚀 💻
 
 
 ## :book: About me
