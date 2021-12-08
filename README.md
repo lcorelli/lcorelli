@@ -13,9 +13,9 @@ I am a recent graduate of the University of Notre Dame with a bachelor's in elec
 I just completed my first semester at Duke University. I love the school, my professors, and the area. It's amazing what the weather in Durham, NC can do for you after spending the last 4 years in freezing and cloudy northern Indiana!
 
 ## 💻 Skills
-- Python: OOP principles, numpy, pandas, sklearn, pytorch
-- Math & Statistics: Linear algebra, multivariable calculus and differential equations, statistical learning methods, exploratory data analysis 
-- Version control: I can push/pull, init/clone, add, and commit. I'm a work in progress with branching :)
+- 👨‍💻 Python: OOP principles, numpy, pandas, sklearn, pytorch
+- ➕✖️ Math & Statistics: Linear algebra, multivariable calculus and differential equations, statistical learning methods, exploratory data analysis 
+- 💾 Version control: I can push/pull, init/clone, add, and commit. I'm a work in progress with branching :)
 - 
 
 ## 🚀 Future plans
