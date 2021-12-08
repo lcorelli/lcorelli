@@ -1,4 +1,4 @@
-# Hi, I'm Leo! 🚀 💻 
+# Hi, I'm Leo :) 🚀 💻 
 <p align="center"><img align="center" width="1100px" src="assets/duke_main_drive.jpg"></p>
 
 ## :book: About me
@@ -10,9 +10,15 @@
 
 I am a recent graduate of the University of Notre Dame with a bachelor's in electrical engineering, and a current master's student at Duke University studying artificial intelligence. I love data, college football (go Irish ☘️ !!), working out, and spending time with my family and friends. 
 
-I just completed my first semester at Duke University. I love the school, my professors, and the area. It's amazing what the weather in Durham, NC can do for you after spending the last 4 years in northern Indiana.
+I just completed my first semester at Duke University. I love the school, my professors, and the area. It's amazing what the weather in Durham, NC can do for you after spending the last 4 years in freezing and cloudy northern Indiana!
+
+## 💻 Skills
+- 
 
 ## 🚀 Future plans
+
+At the moment I do not have any professional experience working as a data scientist. I have been working relentlessly over the past 7 months both on my own and in school to learn, practice, and become a true data scientist. I am building my github repositories so that everyone can see what I have been working on. I am currently looking for a 2022 data science summer internship to continue my learning process. I take tremendous pride in and ownership of my work, I'm a very fast learner, and I love working with people and being a part of something bigger than myself. 
+
 
 
 <!--
