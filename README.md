@@ -1,4 +1,4 @@
-# Hi, I'm Leo 🚀 💻 :)
+# Hi, I'm Leo! 🚀 💻 
 <p align="center"><img align="center" width="1100px" src="assets/duke_main_drive.jpg"></p>
 
 ## :book: About me
