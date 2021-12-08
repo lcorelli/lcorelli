@@ -26,6 +26,14 @@ I just completed my first semester at Duke University. I love the school, my pro
 
 I have been working very hard over the past 7 months both on my own and in school to learn, practice, and become a better data scientist and machine learning practitioner. I am building my github repositories so that everyone can see what I have been working on. I am currently looking for a 2022 data science/machine learning summer internship to continue my learning process. I take tremendous pride in and ownership of my work, I'm a very fast learner, and I love working with people and being a part of something bigger than myself. 
 
+
+<hr>
+
+<h2 align="center">💬 My Blog Articles</h2>
+<p align="center" align='right'>
+  <a target="_blank"href="https://medium.com/@lmcorelli"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+</p>
+
 <hr>
 
 <h2  align="center">📫 Reach me on</h2>
