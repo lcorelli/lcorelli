@@ -2,11 +2,11 @@
 <p align="center"><img align="center" width="1100px" src="assets/duke_main_drive.jpg"></p>
 
 ## :book: About me
-- :computer: Machine Learning Engineer at Sony AI Inc (2020/10/1~)
-- :mortar_board: Ph.D's student in compute science at Keio University (2019/10/1~)
-- :fire: IPA MITOU creator (2020)
-- :keyboard: Vimmer (a whole time)
-- :eyes: Visit [here](https://takuseno.github.io) for more information
+- :computer: Artificial Intelligence master's student at Duke University (08/2021~)
+- :mortar_board: BS in electrical engineering from the University of Notre Dame (08/2017-05/2021)
+- :fire: 
+- :keyboard: VS Code gang (how do you exit VIM?!?)
+- :eyes: 
 
 I am a recent graduate of the University of Notre Dame with a bachelor's in electrical engineering, and a current master's student at Duke University studying artificial intelligence. I love data, college football (go Irish ☘️ !!), working out, and spending time with my family and friends. 
 
