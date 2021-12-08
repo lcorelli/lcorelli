@@ -1,5 +1,7 @@
 # Hi, I'm Leo :) 🚀 💻 
 
+<p align="center"><img align="center" width="1100px" src="assets/duke_chapel_selfie.png"></p>
+
 ## :book: About me
 - :computer: Master's student studying artificial intelligence at Duke University (08/2021-)
 - :mortar_board: Bachelor's in electrical engineering from the University of Notre Dame (08/2017-05/2021)
