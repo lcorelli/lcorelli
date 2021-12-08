@@ -1,9 +1,9 @@
 # Hi, I'm Leo 🚀 💻 :)
 <p align="center"><img align="center" width="1100px" src="assets/duke_main_drive.jpg"></p>
 
-I am a recent graduate of the University of Notre Dame with a bachelor's in electrical engineering, and a current master's student at Duke University studying artificial intelligence. I love data, college football (Go Irish ☘️ !!), working out, and spending time with my family and friends. 
+I am a recent graduate of the University of Notre Dame with a bachelor's in electrical engineering, and a current master's student at Duke University studying artificial intelligence. I love data, college football (go Irish ☘️ !!), working out, and spending time with my family and friends. 
 
-
+I just completed my first semester at Duke University. I love the school, my professors, and the area. It's amazing what the weather in Durham, NC can do for you after spending the last 4 years in northern Indiana.
 
 
 
