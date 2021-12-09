@@ -18,7 +18,7 @@ I just completed my first semester at Duke University. I love the school, my pro
 ## 💻 Skills
 - 👨‍💻 Python: OOP principles, numpy, pandas, sklearn, pytorch
 - 🧮 Math & Statistics: Linear algebra, multivariable calculus and diff. equations, statistical learning methods, data analysis 
-- 💾 Version control: I can push/pull, init/clone, add, and commit. I'm a work in progress with branching :)
+- 💾 Version control w/ git: I can push/pull, init/clone, add, commit, branch, and merge. Currently working on unit testing and continuous integration
 - ✍️ Strong verbal and written communication skills
 - 😁 An infectiously positive attitude and strong willingness to learn!
 
