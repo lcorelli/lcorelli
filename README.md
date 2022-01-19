@@ -32,7 +32,7 @@ I have been working very hard over the past 7 months both on my own and in schoo
 
 <h2 align="center">💬 My Blog Articles</h2>
 <p align="center" align='right'>
-  <a target="_blank"href="https://medium.com/@lmcorelli"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://medium.com/@leocorelli"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
