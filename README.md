@@ -25,7 +25,7 @@ I just completed my first semester at Duke University. I love the school, my pro
 
 ## 🚀 Future plans
 
-I am currently looking for a 2022 data science/machine learning summer internship to continue my learning process. I take tremendous pride in and ownership of my work, I'm a very fast learner, and I love working with people and being a part of something bigger than myself. 
+I am currently looking for a full time role in data science/machine learning at a company that champions innovation and a culture of collaboration. I take tremendous pride in and ownership of my work, I'm a very fast learner, and I love working with people and being a part of something bigger than myself.
 
 
 <hr>
