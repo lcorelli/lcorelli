@@ -11,7 +11,7 @@
 
 I am a recent graduate of the University of Notre Dame with a bachelor's in electrical engineering, and a current master's student at Duke University studying artificial intelligence. I love data, college football (go Irish ☘️ !!), working out, and spending time with my family and friends. 
 
-I just completed my first semester at Duke University. I love the school, my professors, and the area. It's amazing what the weather in Durham, NC can do for you after spending the last 4 years in freezing and cloudy northern Indiana!
+I'm currently pursuing my master's at Duke University. I love the school, my professors, and the area. It's amazing what the weather in Durham, NC can do for you after spending the last 4 years in freezing and cloudy northern Indiana!
 
 &nbsp;
 
