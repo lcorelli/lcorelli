@@ -26,7 +26,7 @@ I'm currently pursuing my master's at Duke University. I love the school, my cla
 
 ## 🚀 Future plans
 
-I am currently looking for a full time role as a machine learning engineer at an innovative and collaborative company building cool products with machine learning. I take tremendous pride in and ownership of my work, I'm a very fast learner, and I love working with people and being a part of something bigger than myself.
+I am currently looking for a full time role as a machine learning engineer/product manager at an innovative and collaborative company building cool products with machine learning. I take tremendous pride in and ownership of my work, I'm a very fast learner, and I love working with people and being a part of something bigger than myself.
 
 
 <hr>
