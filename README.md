@@ -9,10 +9,6 @@
 - :keyboard: VS Code gang (how do you exit VIM?!?)
 - :fire: Machine learning & data science
 
-I am a recent graduate of the University of Notre Dame with a bachelor's in electrical engineering, and a current master's student at Duke University studying artificial intelligence. I love machine learning, college football (go Irish ☘️ !!), brazilian jiu jitsu, and spending time with my family and friends. 
-
-I'm currently pursuing my master's at Duke University. I love the school, my classmates, my professors, and the area. It's amazing what the weather in Durham, NC can do for you after spending the last 4 years in freezing and cloudy northern Indiana!
-
 &nbsp;
 
 ## 💻 Skills
